@@ -3,4 +3,4 @@ A cDictionary is regular English Dictionary implemented in C programming languag
 
 The following visual output will easily help to know about cDictionary application :
 
-![Output](https://user-images.githubusercontent.com/54701889/89549865-83370780-d826-11ea-89a0-d70c6194ab1d.png)
+![OP](https://user-images.githubusercontent.com/54701889/89552077-4e787f80-d829-11ea-8478-8b27d1fde87d.png)
